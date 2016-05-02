@@ -1,0 +1,6 @@
+C:\Projects\Git\DLeh.Util.MVVM\bin\Debug\DLeh.Util.MVVM.dll
+C:\Projects\Git\DLeh.Util.MVVM\bin\Debug\DLeh.Util.MVVM.pdb
+C:\Projects\Git\DLeh.Util.MVVM\bin\Debug\DLeh.Util.dll
+C:\Projects\Git\DLeh.Util.MVVM\obj\Debug\DLeh.Util.MVVM.csprojResolveAssemblyReference.cache
+C:\Projects\Git\DLeh.Util.MVVM\obj\Debug\DLeh.Util.MVVM.dll
+C:\Projects\Git\DLeh.Util.MVVM\obj\Debug\DLeh.Util.MVVM.pdb
